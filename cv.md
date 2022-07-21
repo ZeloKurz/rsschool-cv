@@ -7,7 +7,7 @@
 
 I want to learn Front-End and get job that I would like.
 ## Code example:
-' function fizzbuzz(n)
+``` function fizzbuzz(n)
 {
   let ar = [];
   for ( let i = 1; i <= n; i++) {
@@ -25,7 +25,7 @@ I want to learn Front-End and get job that I would like.
     }
   }
   return ar;
-} '
+} ```
 ## Work experience:
 
 Support Service Specialist
