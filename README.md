@@ -1,2 +1,2 @@
-# rsschool-cv
-https://ZeloKurz.github.io/rsschool-cv/cv
+# rsschool-cv-html
+https://ZeloKurz.github.io/rsschool-cv/
